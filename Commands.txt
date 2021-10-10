@@ -1,0 +1,20 @@
+PC
+ls - mostra o que tem nesse diretório
+cd <nome/endereço> - entra em um diretório
+cd .. - volta um diretório
+mv <nome> <diretório> - muda o arquivo de diretório
+mkdir <nome> - cria uma pasta
+rmdir <nome> - deleta uma pasta
+touch <nome.ext> - cria um arquivo
+rm <nome.ext> - deleta um arquivo
+clean - limpa o Terminal
+
+GIT
+git config --global user.email <email> - cadastra email
+git config --global user.name <name> - cadastra nome
+git init - cria um repositório
+git add <name/./*> - adiciona arquivos
+git clone <link> - clona um repositório
+git commit -m "<mensagem>" - mensagem do commit
+git status - mostra como estão arquivos recém colocados/desconhecidos
+git push <endereço> - manda pra nuvem o que precisa
